@@ -179,3 +179,12 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+data/raw/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pbix
+data/
+duckdb.exe
+*.duckdb
+*.wal

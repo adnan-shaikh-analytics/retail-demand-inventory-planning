@@ -1,0 +1,46 @@
+abc,xyz,abc_xyz,method,skus,actual_units,abs_error,signed_error
+C,Z,CZ,Same week last year,918,25701,28088.0,-1282.0
+C,Z,CZ,4-week average,918,25701,18361.5,-1223.5
+B,Y,BY,8-week average,1688,114124,53664.125,-4152.625
+A,Y,AY,8-week average,1611,273265,99242.875,-10937.375
+A,X,AX,8-week average,1665,443320,118743.375,2179.625
+C,Z,CZ,Last week,918,25701,21064.0,-582.0
+C,X,CX,Last week,43,4085,2109.0,11.0
+C,X,CX,4-week average,43,4085,1790.25,21.75
+C,Y,CY,Same week last year,1064,50109,42191.0,-571.0
+A,Y,AY,4-week average,1611,273265,91032.25,-6360.75
+B,Y,BY,4-week average,1688,114124,53220.0,-2341.5
+A,X,AX,4-week average,1665,443320,116392.5,2934.0
+B,X,BX,Same week last year,383,46266,24128.0,1666.0
+A,Z,AZ,Same week last year,169,24001,23585.0,-385.0
+B,Z,BZ,4-week average,402,23972,12229.75,-1677.25
+C,Y,CY,8-week average,1064,50109,28810.75,-1121.5
+C,X,CX,8-week average,43,4085,1727.125,-6.125
+B,Z,BZ,Same week last year,402,23972,21922.0,-3700.0
+C,Y,CY,4-week average,1064,50109,29479.75,-730.25
+B,Z,BZ,8-week average,402,23972,13273.0,-2837.5
+C,X,CX,Same week last year,43,4085,2532.0,228.0
+C,Z,CZ,8-week average,918,25701,18444.75,-2129.25
+A,Y,AY,Last week,1611,273265,99212.0,-2072.0
+B,Y,BY,Last week,1688,114124,63713.0,-1007.0
+A,X,AX,Last week,1665,443320,132414.0,1264.0
+C,Y,CY,Last week,1064,50109,35573.0,-485.0
+B,X,BX,4-week average,383,46266,17281.0,-271.0
+A,Z,AZ,4-week average,169,24001,11305.0,-323.0
+A,Y,AY,Same week last year,1611,273265,185109.0,-21129.0
+B,Y,BY,Same week last year,1688,114124,83807.0,-7261.0
+A,X,AX,Same week last year,1665,443320,184943.0,-583.0
+B,Z,BZ,Last week,402,23972,13390.0,-674.0
+B,X,BX,Last week,383,46266,21009.0,-191.0
+A,Z,AZ,Last week,169,24001,9838.0,-286.0
+B,X,BX,8-week average,383,46266,16940.0,-313.75
+A,Z,AZ,8-week average,169,24001,14168.875,-856.125
+A,Y,AY,Selected (best per segment),1611,273265,99212.0,-2072.0
+B,Z,BZ,Selected (best per segment),402,23972,12229.75,-1677.25
+C,Z,CZ,Selected (best per segment),918,25701,18361.5,-1223.5
+A,X,AX,Selected (best per segment),1665,443320,116392.5,2934.0
+B,X,BX,Selected (best per segment),383,46266,16940.0,-313.75
+C,X,CX,Selected (best per segment),43,4085,1727.125,-6.125
+B,Y,BY,Selected (best per segment),1688,114124,53220.0,-2341.5
+C,Y,CY,Selected (best per segment),1064,50109,29479.75,-730.25
+A,Z,AZ,Selected (best per segment),169,24001,9838.0,-286.0
